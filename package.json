@@ -1,2 +1,5 @@
 npm init -y
 npm install express body-parser
+"scripts": {
+  "start": "node server.js"
+}
